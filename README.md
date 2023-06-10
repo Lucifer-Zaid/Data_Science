@@ -9,7 +9,7 @@ Crowd sourse Data collecting App for the safe city
 
 Project on the Prediction of Epilipsy
           
-          "Lets Save life With Data Science Understanding Epilepsy through Data Science"
+          "Lets Save life With Data Science: Understanding Epilepsy through Data Science"
 
 Models used are NOT Time Series These are KNN, Decision Tree,Random Forest and SVM 
 
